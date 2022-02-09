@@ -1,3 +1,12 @@
 # Project exclude paths
 /target/
 /.idea/
+/log/
+/hs_err_pid2108.log/
+/hs_err_pid2908.log/
+/hs_err_pid7596.log/
+/hs_err_pid14088.log/
+/replay_pid2108.log/
+/replay_pid2908.log/
+/replay_pid7596.log/
+/replay_pid14088.log/
