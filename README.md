@@ -7,10 +7,10 @@ Tool yang digunakan untuk web testing ini adalah:
 4.Script Java 5.Silenium 
 6.Serenity Report
 
-==================================================================================================================== 
+
 ADA TROUBLE TEKNIS YAITU AKSES INTERNET KETIKA TESTING BANYAK RTO SEHINGGA TIGA SKENARIO 
 HANYA 2 YANG BISA DIPROSES TESTING (SEBELUMNYA BISA KARENA PROGRAM FLASH SALE Murah Of Day SUDAH OFF, SCRIPT SUKSES)
-====================================================================================================================
+
 ADA 3 SKENARIO YANG DIMINTA
 
 Feature: Customer feature in https://www.bhinneka.com/ 
