@@ -21,7 +21,8 @@ ADA 3 SKENARIO YANG DIMINTA
 
 > Feature: Customer feature in https://www.bhinneka.com/ 
 > As a member at https://www.bhinneka.com/ 
-> I want to choose the product with 3 Steps of Scenario Testing: 
+
+- I want to choose the product with 3 Steps of Scenario Testing: 
 a. Produk dari hasil pencarian dengan manipulasi jumlah produk pada halaman produk detail dan halaman keranjang 
 b. Produk dari daftar kategori dengan manipulasi filter pada daftar produk 
 c. Produk dari flash sale (Murah Of The Day) dengan minimal dua produk di keranjang (ini sukses sebelumnya, tp sdh OFF tidak bisa ditesting lagi dianggap SKIPPED) So that I can buy some products at bhinneka.com
